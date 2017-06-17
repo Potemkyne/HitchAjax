@@ -2,7 +2,7 @@
 
 		$(function () {
 			"use strict";
-			$('#button').click(function (e) {
+			$('button').click(function (e) {
 				e.preventDefault(e);
 				$.ajax({
 					url: 'formextractall.php',

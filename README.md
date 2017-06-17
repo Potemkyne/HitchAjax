@@ -1,5 +1,6 @@
 # HitchAjax
 <p>Les étapes :<p> 
+![img](http://imgur.com/rVljoSo)
 <ul>
 <li>Evènement click() sur élément button </li>
 <li>Déclenchement requête AJAX en jQuery vers script PHP</li>
